@@ -1,6 +1,6 @@
 # Marco-Mulder
 # 💫 About Me:
-As a BSc IT graduate, I am driven by my passion for technology and problem-
+As an IT graduate, I am driven by my passion for technology and problem-
 solving. With a solid foundation in programming, data structures, algorithms and databases.
 Proficient in ASP.NET, C# (.NET CORE Framework), Java, Python, C/C++, HTML5, CSS and JavaScript. I have honed my
 skills through hands-on projects and coursework. My dedication to staying updated with
